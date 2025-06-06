@@ -2,6 +2,10 @@
 
 \include "bwv659_updated_absolutized.ly"
 
+\header {
+  tagline = ##f  % Removes LilyPond version info
+}
+
 bwv = <<
   \new PianoStaff {
     <<
