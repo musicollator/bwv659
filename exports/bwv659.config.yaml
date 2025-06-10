@@ -7,8 +7,6 @@ workInfo:
   externalURL: "https://en.wikipedia.org/wiki/Great_Eighteen_Chorale_Preludes"
 
 files:
-  svgPath: "bwv659_optimized.svg"
-  notesPath: "bwv659_json_notes.json"
   audioPath: "bwv659.mp3"
   
 musicalStructure:
