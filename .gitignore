@@ -2,6 +2,7 @@ __pycache__/
 .build_cache.json
 .DS_Store
 *.csv
+*.json
 *.log
 *.mid
 *.midi
