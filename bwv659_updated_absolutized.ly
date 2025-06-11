@@ -114,7 +114,7 @@ altzwei = {
   \new Voice {
     \global
     \voiceFour
-    \set midiInstrument = #"viola"
+    \set midiInstrument = #"clarinet"
     s1*33
     s16 \stemDown \tieDown \once \override Staff.NoteCollision.merge-differently-dotted = ##t b,8. \stemUp \shiftOn b16 b c8 b!2
   }
